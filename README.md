@@ -1,16 +1,16 @@
-## Hi there 👋
+### Oluwasegun Olumbe
 
-<!--
-**nugehs/nugehs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer in London. Commerce systems at **Sky**, founder of **BashBop Ltd**.
 
-Here are some ideas to get you started:
+I build a deterministic trust layer for AI-assisted development — four tools that answer yes/no questions people keep handing to an LLM, with static analysis instead:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | question | tool |
+|---|---|---|
+| context | What does this change actually touch? | [repoctx](https://www.npmjs.com/package/@nugehs/repoctx) |
+| contracts | Did the front end and back end quietly stop agreeing? | [tieline](https://www.npmjs.com/package/@nugehs/tieline) |
+| compliance | Could you defend this to Ofcom? | [bouncer](https://www.npmjs.com/package/@nugehs/bouncer) |
+| governance | Where can the model do something you can't undo? | [aiglare](https://www.npmjs.com/package/@nugehs/aiglare) |
+
+All local-first, MIT, MCP-native. *static analysis, never the model.*
+
+**Products:** [BashBop](https://bashbop.com) · [Snap A Bird](https://snapabird.com) — **Site:** [segunolumbe.com](https://segunolumbe.com)
