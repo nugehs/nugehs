@@ -6,7 +6,7 @@ I build a deterministic trust layer for AI-assisted development — four tools t
 
 | | question | tool |
 |---|---|---|
-| context | What does this change actually touch? | [repoctx](https://www.npmjs.com/package/@nugehs/repoctx) |
+| context | What does this change actually touch? | [solumbe](https://www.npmjs.com/package/@bashbop/solumbe) |
 | contracts | Did the front end and back end quietly stop agreeing? | [tieline](https://www.npmjs.com/package/@nugehs/tieline) |
 | compliance | Could you defend this to Ofcom? | [bouncer](https://www.npmjs.com/package/@nugehs/bouncer) |
 | governance | Where can the model do something you can't undo? | [aiglare](https://www.npmjs.com/package/@nugehs/aiglare) |
